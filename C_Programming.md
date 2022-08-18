@@ -43,7 +43,7 @@ The following are the four Compilation stages through which our program passes b
  
  To take a deep dive inside the C compilation process let’s compile a C program. Write or copy below C program and save it as ``` compilation.c.```
  
- ```C
+ ```c
  /* Learning C compilation process */
 #include <stdio.h>
 
@@ -79,7 +79,7 @@ After pre-processing it generates a temporary file with .i extension. Since, it 
 ``` gcc -E compilation.c ``` [In Linux]
 
 To view contents of the pre-processed file open ``` <file-name>.i``` in your favourite text editor. As in our case below is an extract of ```compilation.i``` file.
-```i
+```c
 # 1 "compilation.c"
 # 1 ""
 # 1 ""
@@ -179,7 +179,7 @@ Also we can generate ```<file-name>.o``` by using the following command:<br><br>
 ``` gcc -c compilation.c ``` [In Linux]
 
 This file is encoded in low level machine language and cannot be viewed using text editors. However, if you still open this in notepad, it look like.
-```o
+```obj
 ELF          >                    (          @     @  
  óúUH‰åH=    ¸    è    ¸    ]ÃHello, World!  GCC: (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0                GNU   À                 zR x                 E†C
 W                               ñÿ                                                                                                                                                         	                                                                                  *                       compilation.c main _GLOBAL_OFFSET_TABLE_ printf                     üÿÿÿÿÿÿÿ             üÿÿÿÿÿÿÿ                       .symtab .strtab .shstrtab .rela.text .data .bss .rodata .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                                           @                                            @               h      0                           &                     `                                      ,                     `                                      1                     `                                     9      0               n       ,                             B                      š                                      R                                                            j                     À       8                              e      @               ˜                	                                       ø       8         
@@ -192,8 +192,8 @@ Also we can generate ```<file-name>.o``` by using the following command:<br><br>
 ``` gcc -o  compilation compilation.c ``` [In Linux]
 
 Linker generates the final executable file (```.exe``` in windows and ```compilation``` in linux).
-##
-> Note:<br> 
+* Note:
+## 
 > Valid only in Linux(GCC) <br>
 > If we compile code by using below method then it generates `a.out` as executable file.<br>
 > `gcc file-name.c`<br>
@@ -206,18 +206,18 @@ Every C program uses libraries, which give the ability to execute necessary func
 
 To add the ability to run the printf command to our program, we must add the following include directive to our first line of the code:
 
-``` 
+```c
 #include <stdio.h> 
 ```
 The second part of the code is global variables, which will be accessible through out the program.
-```
+```c
 int gVar; /* global variable */
 ```
 Here ```gVar``` is accessible through out the program.
 
 The third part of the code is the actual code which we are going to write. The first code which will run will always reside in the ```main``` function.
 
-```
+```c
 int main()
 {
   /* main() function body starts here */
@@ -229,7 +229,7 @@ The ```int``` keyword indicates that the function ```main``` will return an inte
 Local variables will be accessible in the functions where they are declared/defined. Here ```lVar``` is accessible only in main function.
 
 For this tutorial, we will return 0 to indicate that our program was successful:
-```
+```c
 return 0;
 ```
 
