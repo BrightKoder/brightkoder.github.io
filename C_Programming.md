@@ -1,11 +1,9 @@
 # C Programming Tutorial
 
 ## Introduction: 
-The C programming language is a general purpose, and procedural programming language, which relates closely to the way machines work. Understanding how computer memory works is an important aspect of the C programming language. Although C can be considered as "hard to learn", C is in fact a very simple language, with very powerful capabilities.
+The C programming language is a general purpose, and procedural programming language, which relates closely to the way machines work. Understanding how computer memory works is an important aspect of the C programming language. Although C can be considered as "hard to learn", C is in fact a very simple language, with very powerful capabilities. C was invented to write an operating system called UNIX and C is a successor of B language which was introduced around the early 1970s.The language was formalized in 1988 by the American National Standard Institute (ANSI).
 
-The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development. 
-
-C is a very common language, and it is the language of many applications such as Windows, the Python interpreter, Git, and many many more.
+The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development. Today C is the most widely used and popular System Programming Language.
 
 C is a compiled language - which means that in order to run it, the compiler (for example, GCC or Visual Studio) must take the code that we wrote, process it, and then create an executable file. This file can then be executed, and will do what we intended for the program to do.
 
@@ -278,6 +276,9 @@ C was initially used for system development work, particularly the programs that
 * Databases
 * Language Interpreters
 * Utilities
+* Windows 
+* Python interpreter
+* Git, and many many more.
 
 
 
