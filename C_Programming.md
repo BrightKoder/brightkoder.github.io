@@ -1,4 +1,4 @@
-# C Programming Language
+# C Programming Tutorial
 
 ## Introduction: 
 The C programming language is a general purpose, and procedural programming language, which relates closely to the way machines work. Understanding how computer memory works is an important aspect of the C programming language. Although C can be considered as "hard to learn", C is in fact a very simple language, with very powerful capabilities.
@@ -240,17 +240,6 @@ Notice that every statement in C must end with a semicolon, so that the compiler
 
 Last but not least, we will need to call the function ```printf``` to print our sentence.
 
-### Types of program errors
-We distinguish between the following types of errors:
-
-1. Syntax errors: errors due to the fact that the syntax of the language is not respected.
-2. Semantic errors: errors due to an improper use of program statements.
-3. Logical errors: errors due to the fact that the specification is not respected.
-
-From the point of view of when errors are detected, we distinguish:
-1. Compile time errors: syntax errors and static semantic errors indicated by the compiler.
-2. Runtime errors: dynamic semantic errors, and logical errors, that cannot be detected by the compiler (debugging).
-
 ### Exercise
 
 ```c
@@ -266,4 +255,31 @@ int main()
 Output:
 Hello World!
 ```
+### Types of program errors
+We distinguish between the following types of errors:
+
+1. Syntax errors: errors due to the fact that the syntax of the language is not respected.
+2. Semantic errors: errors due to an improper use of program statements.
+3. Logical errors: errors due to the fact that the specification is not respected.
+
+From the point of view of when errors are detected, we distinguish:
+1. Compile time errors: syntax errors and static semantic errors indicated by the compiler.
+2. Runtime errors: dynamic semantic errors, and logical errors, that cannot be detected by the compiler (debugging).
+
+### Applications of C Programming
+C was initially used for system development work, particularly the programs that make-up the operating system. C was adopted as a system development language because it produces code that runs nearly as fast as the code written in assembly language. Some examples of the use of C are -
+* Operating Systems
+* Language Compilers
+* Assemblers
+* Text Editors
+* Print Spoolers
+* Network Drivers
+* Modern Programs
+* Databases
+* Language Interpreters
+* Utilities
+
+
+
+
 
