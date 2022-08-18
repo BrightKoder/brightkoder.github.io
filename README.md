@@ -1,30 +1,12 @@
-# Welcome to GitHub Pages
+# Welcome to BrightKoder Academy
+  BrightKoder Acadamy teaches programming languages in easy way. Also it creates hunger inside you to learn programming. This webside includes different language tutorials like C, C++, Python and so on...
 
-You can use the [editor on GitHub](https://github.com/tonyflo/demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Let's start learning below programming languages:
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[Next](./C_Programming.md)
+* [C Programming](./C_Programming.md)
+* [C++ Programming](./C_Programming.md)
+* [Python Programming](./C_Programming.md)
+* [Shell/Bash Scripting](./C_Programming.md)
+ 
+                              
+# Thank you !!
