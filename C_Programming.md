@@ -192,14 +192,15 @@ Also we can generate ```<file-name>.o``` by using the following command:<br><br>
 ``` gcc -o  compilation compilation.c ``` [In Linux]
 
 Linker generates the final executable file (```.exe``` in windows and ```compilation``` in linux).
-##
-> **__Note:__** <br>
+
+---
+> **Note:** </br>
 > Valid only in Linux(GCC) <br>
 > If we compile code by using below method then it generates `a.out` as executable file.<br>
 > `gcc file-name.c`     <br>
 >  if we compile code by using below method then we can give diffrent name for executable file.<br>
 >  ```gcc -o executable-name file-name.c```    <br>
-##
+---
 
 ### Basic C Terminology: 
 Every C program uses libraries, which give the ability to execute necessary functions. For example, the most basic function called ```printf```, which prints to the screen, is defined in the ```stdio.h``` header file.
