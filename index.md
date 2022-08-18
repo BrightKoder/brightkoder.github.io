@@ -16,6 +16,6 @@ Let's start learning below programming languages:
 
 Still these tutorials are in progress, slowly will add contents into it.
 
-For any comments and suggestions, please send your feedback to brightkoder@gmail.com.
+For any comments and suggestions, please send your feedback to **brightkoder@gmail.com**.
 
-Thank you :)
+**Thank you and All the best :)**
