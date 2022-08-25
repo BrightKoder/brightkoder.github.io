@@ -9,10 +9,10 @@ BrightKoder Acadamy teaches programming languages in easy way. Also it creates h
 
 Let's start learning below programming languages:
 
-* **[C Programming](./C_Programming.md)**
-* **[C++ Programming](./C_Programming.md)**
-* **[Python Programming](./C_Programming.md)**
-* **[Shell/Bash Scripting](./C_Programming.md)**
+* **[C Programming](./C_Programming/introduction.md)**
+* **[C++ Programming](./C_Programming/introduction.md)**
+* **[Python Programming](./C_Programming/introduction.md)**
+* **[Shell/Bash Scripting](./C_Programming/introduction.md)**
 
 Still these tutorials are in progress, slowly will add contents into it.
 
