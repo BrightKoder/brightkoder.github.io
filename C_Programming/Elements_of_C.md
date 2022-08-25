@@ -1,18 +1,24 @@
 # Elements of C
-This section describes the elements of the C programming language, including the names, numbers, and characters used to construct a C program. The ANSI C syntax labels
-these components tokens.
+Like any other programming language, C also have few basic building blocks which are used to write the C programs.
 
-This section explains how to define tokens and how the compiler evaluates them.
+Elements like Character set, Keywords or Reserved words, Operators and Variables etc called as the Building blocks of any programming language.
 
-The following topics are discussed:
-* Tokens
-* Comments
-* Keywords
-* Identifiers
-* Constants
-* String literals
+These foundational elements, Which we can use to create our application logic.
 
-Punctuation and special characters
+Here is the List of Elements of C language.
 
-Operators are symbols (both single characters and character combinations) that specify how values are to be manipulated. Each symbol is interpreted as a single unit,
-called a token
+1. Character set in C
+2. Keywords
+3. Operators
+4. Constants
+5. Identifiers & Rules to Defining Identifiers
+6. Variables
+7. Datatypes
+8. Comments
+9. Statements
+
+
+---
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<[Prev](./C_Programming/introduction.md)>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<[Next](./C_Programming/introduction.md)>**
+
+---
