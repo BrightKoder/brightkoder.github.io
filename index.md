@@ -22,9 +22,21 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
 
 ---
     
-  <a href="http//www.google.com"><h3 style="text-align: center;">Prev</h3></a>
-  <a href="http//www.google.com"><h3 style="text-align: center;">Next</h3></a>
+  <style>
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
 
-
+# Markdown heading styles {#identifier .heading1}
+## Markdown heading styles {#identifier .heading2}
+  
 ---
 
