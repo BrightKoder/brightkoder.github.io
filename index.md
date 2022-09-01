@@ -21,11 +21,10 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
 **Thank you and All the best** ![47426-8-smiley-hd-free-transparent-image-hd-thumb](https://user-images.githubusercontent.com/83718460/185386883-5c268dfe-cd88-432a-bad9-63a0ff9c85ae.png)
 
 ---
-<div>    
-  <a href="https://brightkoder.github.io/" style="text-align:center">Prev</a>
-  <a href="https://brightkoder.github.io/" style="text-align:center">Prev</a>
-  <!-- more links here -->
-</div>
+    
+  <a href="http//www.google.com"><h3 style="text-align: center;">Prev</h3></a>
+  <a href="http//www.google.com"><h3 style="text-align: center;">Next</h3></a>
+
 
 ---
 
