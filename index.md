@@ -21,8 +21,20 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
 **Thank you and All the best** ![47426-8-smiley-hd-free-transparent-image-hd-thumb](https://user-images.githubusercontent.com/83718460/185386883-5c268dfe-cd88-432a-bad9-63a0ff9c85ae.png)
 
 ---
-    
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+
+<a href="https://www.w3schools.com"><p style="color:red"> Visit W3Schools.com! </p> </a>
+
+<style type="text/css">
+  strong {
+    font-weight:bold;
+  }
+
+  i {
+    font-style: italic;
+  }
+</style>
+
+<span style="font-weight:bold">text</span>
   
 ---
 
