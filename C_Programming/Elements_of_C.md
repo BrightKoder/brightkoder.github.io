@@ -86,7 +86,7 @@ Here are the list of special characters in C
 
 <div class="my-footer">
   <div class="my-footer1">
-    <a href="./introduction.md" class="my-ft-link">Prev</a>
+    <a href="./introduction.html" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
     <a href="operators.html" class="my-ft-link">Next</a>
