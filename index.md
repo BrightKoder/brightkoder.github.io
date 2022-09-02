@@ -22,20 +22,8 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
 
 ---
 
-<style type="text/css">
-  strong {
-    font-weight:bold;
-  }
-
-  i {
-    font-style: italic;
-  }
-</style>
-
-<a <span style="font-weight:bold">text</span>
-
 <style>
-a:link, a:visited {
+.my-ft-link:link, .my-ft-link:visited {
   background-color: white;
   color: black;
   border: 2px solid green;
@@ -45,26 +33,28 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+.my-ft-link:hover, .my-ft-link:active {
   background-color: green;
   color: white;
 }
 
 .my-footer1 {
   text-align: left;
+  display:inline;
 }
 
 .my-footer2 {
   text-align: right;
+  display:inline;
 }
 </style>
 
 <div class="my-footer">
   <div class="my-footer1">
-    <a href="https://healthineers.sharepoint.com" >Prev</a>
+    <a href="https://healthineers.sharepoint.com" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="https://healthineers.sharepoint.com" >Next</a>
+    <a href="https://healthineers.sharepoint.com" class="my-ft-link">Next</a>
   </div>
 </div>
   
