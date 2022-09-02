@@ -282,6 +282,44 @@ C was initially used for system development work, particularly the programs that
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<[Prev](./introduction.md)>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<[Next](./Elements_of_C.md)>**
+<style>
+.my-ft-link:link, .my-ft-link:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 
+.my-ft-link:hover, .my-ft-link:active {
+  background-color: green;
+  color: white;
+}
+  
+.my-footer {
+  text-align: center;
+}
+
+.my-footer1 {
+  text-align: left;
+  display:inline;
+}
+
+.my-footer2 {
+  text-align: right;
+  display:inline;
+}
+</style>
+
+<div class="my-footer">
+  <div class="my-footer1">
+    <a href="https://brightkoder.github.io/" class="my-ft-link">Prev</a>
+  </div>
+  <div class="my-footer2">
+    <a href="./C_Programming/Elements_of_C.html" class="my-ft-link">Next</a>
+  </div>
+</div>
+  
 ---
