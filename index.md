@@ -58,7 +58,7 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
     <a href="https://brightkoder.github.io/" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="./C_Programming/introduction.md" class="my-ft-link">Next</a>
+    <a href="./C_Programming/introduction.html" class="my-ft-link">Next</a>
   </div>
 </div>
   
