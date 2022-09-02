@@ -318,7 +318,7 @@ C was initially used for system development work, particularly the programs that
     <a href="https://brightkoder.github.io/" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="./C_Programming/Elements_of_C.html" class="my-ft-link">Next</a>
+    <a href="./Elements_of_C.html" class="my-ft-link">Next</a>
   </div>
 </div>
   
