@@ -22,8 +22,6 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
 
 ---
 
-<a href="https://www.w3schools.com"><p style="color:red"> Visit W3Schools.com! </p> </a>
-
 <style type="text/css">
   strong {
     font-weight:bold;
@@ -34,7 +32,32 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
   }
 </style>
 
-<span style="font-weight:bold">text</span>
+<a <span style="font-weight:bold">text</span>
+
+<style>
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+div {
+  text-align: center;
+}
+</style>
+
+<div>
+<a href="https://healthineers.sharepoint.com" >This is a link</a>
+</div>
   
 ---
 
