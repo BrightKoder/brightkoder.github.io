@@ -8,13 +8,13 @@ These foundational elements, Which we can use to create our application logic.
 Here is the List of Elements of C language.
 
 1. Character set in C
-2. Keywords
-3. Operators
-4. Constants
-5. Identifiers & Rules to Defining Identifiers
+2. Identifiers & Rules to Defining Identifiers
+3. Keywords
+4. Comments
+5. Constants
 6. Variables
-7. Datatypes
-8. Comments
+7. Operators
+8. Datatypes
 9. Statements
 
 Let's discuss above elements in-detail
@@ -47,9 +47,43 @@ The C Programming Language supports 29 special characters like brackets (Curly b
 
 Here are the list of special characters in C
  
-```c
+```
  !  "  #  &  '  (  )  *  %  +  ,  -  /  . ;  :  <  =  >  ?  [ ^  ]  -  _  {  }  |  ~
  ```
+
+##### White Space characters
+C Language also supports five White Space characters.
+
+1. Space
+2. Horizontal tab
+3. Vertical tab
+4. Newline
+5. Form feed 
+
+##### Escape Sequences
+
+An escape sequence in C language is a sequence of characters that doesn't represent itself when used inside string literal or character.
+
+It is composed of two or more characters starting with backslash \. For example: \n represents new line.
+
+**List of Escape Sequences**
+
+| Escape Sequence  | Meaning                |
+| -----------------|:----------------------:|
+| \a               | Alarm or Beep          |
+| \b               | Backspace              |
+| \f               | Form feed              |
+| \n               | New line               |
+| \r	              | Carriage Return        |
+| \t	              | Tab (Horizontal)       |
+| \v               | Vertical Tab           |
+| \\	              | Backslash              |
+| \'	              | Single Quote           |
+| \"	              | Double Quote           |
+| \?	              | Question Mark          |
+| \nnn	            | octal number           |
+| \xhh	            | hexadecimal number     |
+| \0	              | Null                   |
 
 ---
 
