@@ -50,13 +50,22 @@ a:hover, a:active {
   color: white;
 }
 
-div {
-  text-align: center;
+.my-footer1 {
+  text-align: left;
+}
+
+.my-footer2 {
+  text-align: right;
 }
 </style>
 
-<div>
-<a href="https://healthineers.sharepoint.com" >This is a link</a>
+<div class="my-footer">
+  <div class="my-footer1">
+    <a href="https://healthineers.sharepoint.com" >Prev</a>
+  </div>
+  <div class="my-footer2">
+    <a href="https://healthineers.sharepoint.com" >Next</a>
+  </div>
 </div>
   
 ---
