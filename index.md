@@ -37,6 +37,10 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
   background-color: green;
   color: white;
 }
+  
+.my-footer {
+  text-align: center;
+}
 
 .my-footer1 {
   text-align: left;
@@ -51,10 +55,10 @@ For any comments and suggestions, please send your feedback to **[brightkoder@gm
 
 <div class="my-footer">
   <div class="my-footer1">
-    <a href="https://healthineers.sharepoint.com" class="my-ft-link">Prev</a>
+    <a href="https://brightkoder.github.io/" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="https://healthineers.sharepoint.com" class="my-ft-link">Next</a>
+    <a href="./C_Programming/introduction.md" class="my-ft-link">Next</a>
   </div>
 </div>
   
