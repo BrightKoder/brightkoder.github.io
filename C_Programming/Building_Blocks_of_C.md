@@ -73,27 +73,27 @@ Character| ASCII   |Detail
 :-------:|:-------:|:-------
 !        | 33      | Exclamation mark, exclamation point, or bang.
 "        | 34      | Quote, quotation mark, or inverted commas.
-#        | 35      | Octothorpe, number, pound, sharp, or hash.
+\#       | 35      | Octothorpe, number, pound, sharp, or hash.
 $        | 36      | Dollar sign or generic currency.
 %        | 37      | Percent.
 &        | 38      | Ampersand, epershand, or and symbol.
 '        | 39      | Apostrophe or single quote.
 (        | 40      | Open or left parenthesis.
 )        | 41      | Close or right parenthesis.
-*        | 42      | Asterisk, mathematical multiplication symbol, and sometimes referred to as a star.
-+        | 43      | Plus.
+\*       | 42      | Asterisk, mathematical multiplication symbol, and sometimes referred to as a star.
+\        | 43      | Plus.
 ,        | 44      | Comma.
--        | 45      | Hyphen, minus, or dash.
+\        | 45      | Hyphen, minus, or dash.
 .        | 46      | Period, dot, or full stop.
-/        | 47      | Forward slash, solidus, virgule, whack, and mathematical division symbol.
+\/       | 47      | Forward slash, solidus, virgule, whack, and mathematical division symbol.
 :        | 58      | Colon.
 ;        | 59      | Semicolon.
-<        | 60      | Less than or angle brackets.
+\<       | 60      | Less than or angle brackets.
 =        | 61      | Equal.
->        | 62      | Greater than or angle brackets.
+\>        | 62      | Greater than or angle brackets.
 ?        | 63      | Question mark.
 @        | 64      | Ampersat, arobase, asperand, at, or at symbol.
-[        | 91      | Open bracket.
+\[       | 91      | Open bracket.
 \        | 92      | Backslash or reverse solidus.
 ]        | 93      | Closed bracket.
 ^        | 94      | Caret or circumflex.
