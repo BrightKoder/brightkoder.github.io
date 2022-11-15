@@ -313,7 +313,7 @@ We will see in-depth operators in next tutorial.
     <a href="https://brightkoder.github.io/" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="./data_types.html" class="my-ft-link">Next</a>
+    <a href="./b_data_types.html" class="my-ft-link">Next</a>
   </div>
 </div>
   
