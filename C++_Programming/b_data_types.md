@@ -191,10 +191,10 @@ We will learn about these User-Defined data types in later tutorials.
 
 <div class="my-footer">
   <div class="my-footer1">
-    <a href="./intro.html" class="my-ft-link">Prev</a>
+    <a href="./a_intro.html" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="./basic_input_output.html" class="my-ft-link">Next</a>
+    <a href="./c_basic_input_output.html" class="my-ft-link">Next</a>
   </div>
 </div>
   
