@@ -200,10 +200,10 @@ Number: 23
 
 <div class="my-footer">
   <div class="my-footer1">
-    <a href="./data_types.html" class="my-ft-link">Prev</a>
+    <a href="./b_data_types.html" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="./operators.html" class="my-ft-link">Next</a>
+    <a href="./d_operators.html" class="my-ft-link">Next</a>
   </div>
 </div>
   
