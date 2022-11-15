@@ -185,24 +185,20 @@ Constant is declared with a const keyword whose value never changes in the execu
 A constant is a token in C++ that corresponds to a number, character, or character string that can be used as a value in a program. Every constant has a type and a value on the basis of which, constants are categorised into the following types:
 
 + **Floating Point Constants:** It is a decimal number that represents a signed real number. The representation of a signed real number includes an integer portion, a fractional portion, and an exponent. 
-
 ```cpp
 e.g.
 const float f = 23.5f;
 
 const double d = 34.6;
 ```
-
 + **Integer Constants:** It is a decimal (base 10), octal (base 8), or hexadecimal (base 16) number that represents an integral value. We use these to represent integer values that cannot be changed.
-
 ```cpp
 e.g.
 const int a = 10;
 
 ```
 
-+ **Character Constants:** A "character constant" is formed by enclosing a single character from the representable character set within single quotation marks (' ').
- 
++ **Character Constants:** A "character constant" is formed by enclosing a single character from the representable character set within single quotation marks (' '). 
 ```cpp
 e.g.
 const char ch = 'A';
@@ -210,7 +206,6 @@ const char ch = 'A';
 ```
 
 + **String Constants:** A "String constant" is formed by enclosing a multiple character together from the representable character set within double quotation marks (" "). 
-
 ```cpp
 e.g.
 const string str = "ABC";
@@ -218,7 +213,6 @@ const string str = "ABC";
 ```
 
 + **Enumeration Constants:** The named integer identifiers that are defined by enumeration types are called enumeration constants.
-
 ```cpp
 #include <iostream>
 int main()
@@ -319,7 +313,7 @@ We will see in-depth operators in next tutorial.
     <a href="https://brightkoder.github.io/" class="my-ft-link">Prev</a>
   </div>
   <div class="my-footer2">
-    <a href="./operators.html" class="my-ft-link">Next</a>
+    <a href="./data_types.html" class="my-ft-link">Next</a>
   </div>
 </div>
   
