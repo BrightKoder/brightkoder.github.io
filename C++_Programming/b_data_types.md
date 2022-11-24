@@ -107,6 +107,7 @@ We can modify the following data types with the above modifiers:
 + `char`
 
 #### C++ Modified Data Types List
+
 | Data Type           | Size (in Bytes) | Meaning                                                                           |
 |:--------------------|:---------------:|:----------------------------------------------------------------------------------|
 | signed int	      | 4	            | used for integers (equivalent to int)                                             |
